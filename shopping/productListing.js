@@ -2,9 +2,10 @@ import React, { Component } from "react";
 import util from "../util";
 import {connect} from 'react-redux';
 import {fetchPosts} from '../actions/postsAction';
-import {handleAddToCart} from '../actions/postsAction';
+import {handleAddToCart} from '../actions/cartAction';
 
 class ProductListing extends Component {
+  
   componentDidMount(){
     this.props.fetchPosts();
   }
@@ -33,7 +34,7 @@ const mapStateToProps = state =>{
   //console.log('product Listing ', state.list.items)
   return {
     listings: state.list.items,
-    cartItems: state.list.cartItems
+    cartItems: state.shoppingCart.cartItems
   }
 }
 
