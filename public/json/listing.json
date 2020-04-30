@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "title": "Printed Black and White",
+    "size": "Small",
+    "price" : "500",
+    "keywords":
+      "hundred points size size wow wow win win perfect perfect parties parties",
+      "image": "/images/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Plain Red & White",
+    "size": "Medium",
+    "price" : "700",
+    "keywords": "input size for numbers size",
+    "image": "/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Plain Blue",
+    "size": "Large",
+    "price" : "900",
+    "keywords": "grinning face happy smiley emotion emotion",
+    "image": "/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "A-line Maroon",
+    "size": "Small",
+    "price" : "850",
+    "keywords": "grimacing face silly smiley emotion emotion selfie selfie",
+    "image": "/images/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Multi Color Tight-fit",
+    "size": "Medium",
+    "price" : "300",
+    "keywords":
+      "grinning face with smiling eyes happy silly smiley emotion emotion good good selfie selfie",
+      "image": "/images/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Royal Blue",
+    "size": "Small",
+    "price" : "950",
+    "keywords":
+      "face with tears of joy happy silly smiley cry laugh laugh emotion emotion sarcastic sarcastic",
+      "image": "/images/6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Dark Grey",
+    "size": "Medium",
+    "price" : "1249",
+    "keywords":
+      "face with tears of Smith happy silly smiley cry laugh laugh emotion emotion sarcastic sarcastic",
+      "image": "/images/7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "T-shit - Maroon",
+    "size": "Small",
+    "price" : "600",
+    "keywords": "grimacing face silly smiley emotion emotion selfie selfie",
+    "image": "/images/8.jpg"
+  }
+]
